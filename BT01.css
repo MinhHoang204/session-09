@@ -1,0 +1,9 @@
+img{
+    color:black;
+}
+.demo-class{
+    width: 500px;
+    height: 50px;
+    background-color: black;
+    color: white;
+}

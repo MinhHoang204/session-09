@@ -1,0 +1,11 @@
+.cover{
+    width:400px;
+    height:400px;
+    animation:flip-animate 20s linear infinite; 
+}
+
+#container .cover div{
+    width:400px;
+    height:400px;
+    position:absolute;
+}
